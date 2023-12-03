@@ -1,1 +1,1 @@
-messages = [{'time': '12.11.2023', 'message': 'Test.'}, {'time': '12.11.2023', 'message': 'Text.'}, {'time': '12.11.2023', 'message': 'Read.'}, {'time': '12.11.2023', 'message': 'Qwertyuiop.'}, {'time': '12.11.2023', 'message': 'Zaqxswcde.'}, {'time': '12.11.2023', 'message': '123456.'}, {'time': '12.11.2023', 'message': '123456789.'}, {'time': '12.11.2023', 'message': 'Q1w2e3.'}]
+messages = []
